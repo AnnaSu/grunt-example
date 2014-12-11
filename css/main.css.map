@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,OAAQ,CACN,QAAQ,CAAE,QAAQ,CAClB,MAAM,CAAE,IAAI,CCNd,OAAO,CACD,KAAK,CAAC,GAAG,CACT,QAAQ,CAAC,KAAK,CACd,MAAM,CAAC,CAAC,CACR,gBAAgB,CAAE,IAAI",
+"sources": ["../sass/partials/_header.scss","../sass/partials/_footer.scss"],
+"names": [],
+"file": "main.css"
+}
